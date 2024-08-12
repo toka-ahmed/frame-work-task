@@ -1,0 +1,22 @@
+footer{
+    background-color: #2C3E50;
+    color: white;
+    padding: 40px;
+}
+h3{
+    font-size: 25px;
+}
+.col-md-4 i{
+    font-size: 20px;
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 50%;
+}
+.f{
+    max-width: 385px;
+}
+.end{
+    background-color: #0C1115;
+    color: white;
+    text-align: center;
+}

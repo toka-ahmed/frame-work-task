@@ -1,0 +1,51 @@
+.line {
+    background-color: #2b3c4d;
+    height: 4px;
+}
+
+.maincolor {
+    color: #2b3c4d;
+}
+
+.layer {
+    background-color: #1ABC9C;
+    color: white;
+    opacity: 0;
+    cursor: pointer;
+    transition: all 1s;
+
+
+}
+
+.layer:hover {
+    opacity: 1;
+}
+
+.item {
+    background-color: aqua;
+}
+
+.icons ul li {
+    list-style: none;
+
+}
+
+.modal-content {
+    background-color: transparent;
+
+    border: none;
+    border-radius: none;
+
+}
+.custom-modal-dialog {
+    max-width: 45% ; 
+}
+.modal-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.modal-body img {
+    max-width: 100%;
+    height: auto;
+}
